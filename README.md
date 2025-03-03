@@ -1,4 +1,4 @@
-<h1>Hi, I'm Douglas! <br/><a href="https://github.com/CopaseticCreates">Artist</a>, <a href="https://www.linkedin.com/in/douglas-hale-002303121/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@WhizkidWondersLearning">YouTube 
+<h1>Hi, I'm Douglas! <br/><a href="https://douglashale.net/">Artist</a>, <a href="https://www.linkedin.com/in/douglas-hale-002303121/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@WhizkidWondersLearning">YouTube 
 Content Creator</a>, <a href="https://youtube.com/@copaseticarts9067?si=1mqr3IMhNfyr7mII">Musician</a></h1>
 
 <h2> Certifications: 
