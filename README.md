@@ -20,7 +20,15 @@ Content Creator</a><a> Musician</a></h1>
 - <b>Active Directory Security Hardening (2024)</b>
   - (https://github.com/CopaseticCreates/ActiveDirectoryLab)
 
+<h2>👨‍💻 Technical Skills:</h2>
+<b>Cybersecurity & Risk Management: Information Security, Vulnerability Management, Risk Analysis, Security Policy Development, Incident Response
+AI & Machine Learning: AI Fundamentals, Machine Learning Concepts, AI-Driven Threat Detection
+Network & Cloud Security: SIEM, Firewalls, Identity & Access Management, Cloud Security (Azure, AWS), Encryption
+Programming & Automation: Python (6 years), PowerShell, Java, Security Automation with Python
+System Administration: Linux, Windows, Virtualization (VMware), System Hardening
+Data & Threat Analysis: Malware Analysis, Cryptography, Security Assessment & Testing</b>
 
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Seasons of the Year Explained for Kids!](https://www.youtube.com/watch?v=OOEg3OKwYTs&t=7s)
