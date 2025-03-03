@@ -10,14 +10,15 @@ Content Creator</a></h1>
 ○ Microsoft Azure AI Fundamentals </h6> <h2>
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
+
 - <b>Azure Security Monitoring & Threat Detection Lab (2025)</b>
   - (https://github.com/CopaseticCreates/AzureMon-ThreatLab)
 
-- <b>Home Networking & Security Lab Project 🏠🔐 (2025)
-  - (https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>Home Networking & Security Lab Project 🏠🔐 (2025)</b>
+  - (-------------------------------------------------)
 
 - <b>Active Directory Security Hardening (2024)</b>
-  - ((https://github.com/CopaseticCreates/ActiveDirectoryLab))
+  - (https://github.com/CopaseticCreates/ActiveDirectoryLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
