@@ -9,11 +9,12 @@ Content Creator</a></h1>
 ○ Microsoft Azure Security Technologies
 ○ Microsoft Azure AI Fundamentals </h6> <h2>
   
-<h2>👨‍💻 Cyber Security Projectys:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 - <b>Azure Security Monitoring & Threat Detection Lab (2025)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Home Networking & Security Lab Project 🏠🔐 (2025)
+  - (https://github.com/joshmadakor1/Algorithms-Practice)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
