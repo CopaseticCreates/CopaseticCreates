@@ -35,6 +35,10 @@ Content Creator</a><a> Musician</a></h1>
 [linkedin]: 
 
 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Haled2312x.png" alt="TRYHACKME" />
+
+
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4200289" style='border:none;'></iframe>
 
 <!--
