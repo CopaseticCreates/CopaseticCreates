@@ -28,6 +28,8 @@ Programming & Automation: Python (6 years), PowerShell, Java, Security Automatio
 System Administration: Linux, Windows, Virtualization (VMware), System Hardening
 Data & Threat Analysis: Malware Analysis, Cryptography, Security Assessment & Testing</b>
 
+<b>Experienced in audio production using DAWs like Pro Tools, focusing on recording, editing, mixing, and mastering. Skilled in MIDI integration, plugin management, automation, and advanced sound design techniques. Proficient in signal routing, time stretching, and pitch shifting for dynamic audio manipulation. Familiar with troubleshooting and optimizing DAW performance for smooth workflow and collaboration. Passionate about creating high-quality audio and exploring innovative sound design techniques.</b>
+
   
 <h2>📺 Popular YouTube Videos</h2>
 
