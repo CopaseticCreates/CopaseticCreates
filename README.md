@@ -1,5 +1,5 @@
 <h1>Hi, I'm Douglas! <br/><a href="https://github.com/CopaseticCreates">Artist</a>, <a href="https://www.linkedin.com/in/douglas-hale-002303121/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@WhizkidWondersLearning">YouTube 
-Content Creator</a></h1>
+Content Creator</a><a> Musician</a></h1>
 
 <h2> Certifications: 
 <h6> ○ CompTIA Security+
@@ -23,8 +23,8 @@ Content Creator</a></h1>
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Seasons of the Year Explained for Kids: Fun and Informative Animation!]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://youtu.be/OOEg3OKwYTs?si=Sd1DNQfG5445YxP9))
-
+- [Seasons of the Year Explained for Kids!](https://www.youtube.com/watch?v=OOEg3OKwYTs&t=7s)
+- [Relaxing Sound of Rain in the Dark Bedroom](https://www.youtube.com/watch?v=QHIyFIMu4uQ)
 
 <h2> 🤳 Connect with me:</h2>
 
