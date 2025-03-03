@@ -46,6 +46,7 @@ Data & Threat Analysis: Malware Analysis, Cryptography, Security Assessment & Te
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Haled2312x.png" alt="TRYHACKME" />
 
+![ca logo](https://github.com/user-attachments/assets/766861bd-7dc7-4685-9160-0ab6ff9fd8c7)
 
 
 
