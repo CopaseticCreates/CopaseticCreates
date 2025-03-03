@@ -1,5 +1,5 @@
 <h1>Hi, I'm Douglas! <br/><a href="https://github.com/CopaseticCreates">Artist</a>, <a href="https://www.linkedin.com/in/douglas-hale-002303121/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@WhizkidWondersLearning">YouTube 
-Content Creator</a><a> Musician</a></h1>
+Content Creator</a>, <a href="<a href="https://www.youtube.com/@copaseticarts9067">Musician</a></h1>
 
 <h2> Certifications: 
 <h6> ○ CompTIA Security+
