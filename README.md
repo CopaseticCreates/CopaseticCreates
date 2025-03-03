@@ -35,7 +35,7 @@ Content Creator</a></h1>
 [linkedin]: 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Haled2312x.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4200289" style='border:none;'></iframe>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
