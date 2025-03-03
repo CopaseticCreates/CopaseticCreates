@@ -11,7 +11,7 @@ Content Creator</a></h1>
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - <b>Azure Security Monitoring & Threat Detection Lab (2025)</b>
-  - (https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/CopaseticCreates/AzureMon-ThreatLab)
 
 - <b>Home Networking & Security Lab Project 🏠🔐 (2025)
   - (https://github.com/joshmadakor1/Algorithms-Practice)</b>
