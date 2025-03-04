@@ -11,7 +11,7 @@ Content Creator</a>, <a href="https://youtube.com/@copaseticarts9067?si=1mqr3IMh
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Azure Security Monitoring & Threat Detection Lab[HoneyPot](2025)</b>
+- <b>Azure Security Monitoring & Threat Detection Lab [HoneyPot] (2025)</b>
   - (https://github.com/CopaseticCreates/AzureMon-ThreatLab)
 
 - <b>Home Networking & Security Lab Project 🏠🔐 (2025)</b>
