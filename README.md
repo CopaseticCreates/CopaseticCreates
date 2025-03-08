@@ -1,72 +1,82 @@
-<h1>Hi, I'm Douglas! <br/><a href="https://douglashale.net/">Artist</a>, <a href="https://www.linkedin.com/in/douglas-hale-002303121/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@WhizkidWondersLearning">YouTube 
-Content Creator</a>, <a href="https://youtube.com/@copaseticarts9067?si=1mqr3IMhNfyr7mII">Musician</a></h1>
+# Hi, I'm Douglas! 👋
 
-<h2> Certifications: 
-<h6> ○ CompTIA Security+
-○ Associate of (ISC)²
-○ CC (Cybersecurity Certification)
-○ Microsoft Azure Fundamentals
-○ Microsoft Azure Security Technologies
-○ Microsoft Azure AI Fundamentals </h6> <h2>
-  
-<h2>👨‍💻 Cyber Security Projects:</h2>
+### 🎨 [Artist](https://douglashale.net/) | 🔐 [Cybersecurity Professional](https://www.linkedin.com/in/douglas-hale-002303121/) | 📺 [YouTube Content Creator](https://www.youtube.com/@WhizkidWondersLearning) | 🎵 [Musician](https://youtube.com/@copaseticarts9067?si=1mqr3IMhNfyr7mII)
 
-- <b>Azure Security Monitoring & Threat Detection Lab [HoneyPot] (2025)</b>
-  - (https://github.com/CopaseticCreates/AzureMon-ThreatLab)
+I'm a cybersecurity professional, content creator, and artist with a passion for security research, AI-driven threat detection, and digital media production. I specialize in cloud security, penetration testing, and creative storytelling through music and video.
 
-- <b>Home Networking & Security Lab Project 🏠🔐 (2025)</b>
-  - (-------------------------------------------------)
+---
 
-- <b>Active Directory Security Hardening (2024)</b>
-  - (https://github.com/CopaseticCreates/ActiveDirectoryLab)
+## 📜 Certifications:
+- **CompTIA Security+**
+- **Associate of (ISC)²**
+- **CC (Cybersecurity Certification)**
+- **Microsoft Azure Fundamentals**
+- **Microsoft Azure Security Technologies**
+- **Microsoft Azure AI Fundamentals**
 
-<h2>👨‍💻 Technical Skills:</h2>
-<b>Cybersecurity & Risk Management: Information Security, Vulnerability Management, Risk Analysis, Security Policy Development, Incident Response
-AI & Machine Learning: AI Fundamentals, Machine Learning Concepts, AI-Driven Threat Detection
-Network & Cloud Security: SIEM, Firewalls, Identity & Access Management, Cloud Security (Azure, AWS), Encryption
-Programming & Automation: Python (6 years), PowerShell, Java, Security Automation with Python
-System Administration: Linux, Windows, Virtualization (VMware), System Hardening
-Data & Threat Analysis: Malware Analysis, Cryptography, Security Assessment & Testing</b>
-<br>
-<br>
-<b>Experienced in audio production using DAWs like Pro Tools, focusing on recording, editing, mixing, and mastering. Skilled in MIDI integration, plugin management, automation, and advanced sound design techniques. Proficient in signal routing, time stretching, and pitch shifting for dynamic audio manipulation. Familiar with troubleshooting and optimizing DAW performance for smooth workflow and collaboration. Passionate about creating high-quality audio and exploring innovative sound design techniques.</b>
-<br>
-<br>
-Proficient in video editing with Adobe Premiere Pro, including timeline editing, color grading, sound mixing, and motion graphics. Experienced in cinematography, with a focus on camera operation, lighting setups, and shot composition for cinematic storytelling. Familiar with various production techniques like slow-motion, time-lapse, and aerial cinematography. Strong technical knowledge in managing and organizing media, alongside optimizing workflows for collaborative video projects. Passionate about crafting visually compelling content from pre-production to final export. Also dabble in animation a little bit.
+---
 
-  
-<h2>📺 Popular YouTube Videos</h2>
+## 🔐 Cybersecurity Projects:
 
-- [Seasons of the Year Explained for Kids!](https://www.youtube.com/watch?v=OOEg3OKwYTs&t=7s)
-- [Relaxing Sound of Rain in the Dark Bedroom](https://www.youtube.com/watch?v=QHIyFIMu4uQ)
+### **Azure Security Monitoring & Threat Detection Lab [HoneyPot] (2025)**  
+- A research project simulating cyber threats using Azure tools.  
+- **Tech Stack:** Azure Security Center, SIEM, Virtual Machines  
+- 🔗 [GitHub Repository](https://github.com/CopaseticCreates/AzureMon-ThreatLab)  
 
-<h2> 🤳 Connect with me:</h2>
+### **Home Networking & Security Lab Project 🏠🔐 (2025)**  
+- A hands-on home network security implementation and analysis.  
+- **Tech Stack:** Firewall Configurations, IDS/IPS, Wireshark  
 
+### **Active Directory Security Hardening (2024)**  
+- Focused on securing AD environments from privilege escalation attacks.  
+- **Tech Stack:** Windows Server, Group Policies, Kerberos Authentication  
+- 🔗 [GitHub Repository](https://github.com/CopaseticCreates/ActiveDirectoryLab)
 
-[twitter]: 
-[youtube]: 
-[instagram]: 
-[linkedin]: 
+---
 
+## 🛠️ Technical Skills:
 
+### **Cybersecurity & Risk Management:**
+- Information Security, Vulnerability Management, Risk Analysis
+- Incident Response, Threat Intelligence, Security Policy Development
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Haled2312x.png" alt="TRYHACKME" />
+### **Network & Cloud Security:**
+- SIEM, Firewalls, Identity & Access Management (IAM)
+- Cloud Security (Azure, AWS), Encryption
 
-![ca logo](https://github.com/user-attachments/assets/766861bd-7dc7-4685-9160-0ab6ff9fd8c7)
+### **AI & Machine Learning:**
+- AI Fundamentals, Machine Learning Concepts, AI-Driven Threat Detection
 
+### **Programming & Automation:**
+- Python (6 years), PowerShell, Java
+- Security Automation with Python
 
+### **System Administration:**
+- Linux, Windows, Virtualization (VMware), System Hardening
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Data & Threat Analysis:**
+- Malware Analysis, Cryptography, Security Assessment & Testing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎵 Audio & Video Production:
+- **Audio Production:** Skilled in Pro Tools, recording, editing, mixing, and mastering.
+- **Video Editing:** Proficient in Adobe Premiere Pro, cinematography, and motion graphics.
+- **Animation & Sound Design:** Passionate about creative media and storytelling.
+
+---
+
+## 📺 Popular YouTube Videos:
+- 🎥 [Seasons of the Year Explained for Kids!](https://www.youtube.com/watch?v=OOEg3OKwYTs&t=7s)
+- 🌧️ [Relaxing Sound of Rain in the Dark Bedroom](https://www.youtube.com/watch?v=QHIyFIMu4uQ)
+
+---
+
+## 🤳 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/douglas-hale-002303121/)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@WhizkidWondersLearning)  
+
+---
+
+## 🏆 TryHackMe Badge:
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Haled2312x.png)](https://tryhackme.com/p/Haled2312x)
