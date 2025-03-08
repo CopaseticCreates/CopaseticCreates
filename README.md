@@ -2,7 +2,7 @@
 
 ### 🎨 [Artist](https://douglashale.net/) | 🔐 [Cybersecurity Professional](https://www.linkedin.com/in/douglas-hale-002303121/) | 📺 [YouTube Content Creator](https://www.youtube.com/@WhizkidWondersLearning) | 🎵 [Musician](https://youtube.com/@copaseticarts9067?si=1mqr3IMhNfyr7mII)
 
-I'm a cybersecurity professional, content creator, and artist with a passion for security research, AI-driven threat detection, and digital media production. I specialize in cloud security, penetration testing, and creative storytelling through music and video.
+I'm a cybersecurity professional, content creator, and artist with a passion for security research, threat detection, and digital media production. I specialize in cloud security, penetration testing, and creative storytelling through music and video.
 
 ---
 
