@@ -49,7 +49,7 @@ I'm a cybersecurity professional, content creator, and artist with a passion for
 
 ### **Programming & Automation:**
 - Python (6 years), PowerShell, Java
-- Security Automation with Python
+- Bash , SQL, KQL, C++
 
 ### **System Administration:**
 - Linux, Windows, Virtualization (VMware), System Hardening
