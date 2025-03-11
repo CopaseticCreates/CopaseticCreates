@@ -8,6 +8,7 @@ I'm a cybersecurity professional, content creator, and artist with a passion for
 
 ## 📜 Certifications:
 - **CompTIA Security+**
+- **CompTIA CompTIA Cybersecurity Analyst (CySA+)**
 - **Associate of (ISC)²**
 - **CC (Cybersecurity Certification)**
 - **Microsoft Azure Fundamentals**
